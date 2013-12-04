@@ -1,0 +1,30 @@
+<resources>
+
+    <string name="app_name">Remote Eyes</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_blind">BlindActivity</string>
+    <string name="title_activity_sandblind">SandBlindActivity</string>
+    <string name="title_activity_settings">SettingsActivity</string>
+    <string name="photo">Zrób zdjęcie</string>
+    <string name="audio">Nagraj dźwięk</string>
+    <string name="video">Nagraj film</string>
+    <string name="settings">Ustawienia</string>
+    <string name="exit">Wyjdź</string>
+    <string name="tap">Dotknij, by rozpocząć</string>
+    <string name="record">Nagrywaj</string>
+    <string name="check_gps">Jeśli to możliwe, dołączaj dane GPS</string>
+    <string name="iface">Rodzaj interfejsu:</string>
+    <string name="iface_blind">Dla niewidomych</string>
+    <string name="iface_sandblind">Dla niedowidzących</string>
+    <string name="interface_comment">Interfejs dla niedowidzących obsługiwany jest za pomocą dużych przycisków. Interfejs dla niewidomych obsługiwany jest ilością stuknięć w ekran.</string>
+    <string name="album">RemoteEyes</string>
+    <string name="save">Zapisz zmiany</string>
+    <string name="recordinglbl">Trwa nagrywanie</string>
+    <string name="stoprecord">Zatrzymaj</string>
+    <string name="gps">czekaj, pobieram dane gps&#8230;</string>
+    <string name="sending">czekaj, trwa wysyłanie zgłoszenia na serwer&#8230;</string>
+    <string name="title_activity_gps">GPS</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_data_send">DataSendActivity</string>
+
+</resources>
